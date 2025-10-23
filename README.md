@@ -97,7 +97,8 @@ Improve accuracy with hyperparameter tuning or feature engineering.
 
 👨‍💻 Author
 
-Lalpradhap
+M Lalpradhap
+
 🎓 B.Tech Artificial Intelligence and Data Science
 
 🏅 National Gold Medalist in Silambam 
